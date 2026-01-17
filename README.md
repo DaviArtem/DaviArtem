@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=2000&color=FFFFFF&width=435&lines=Ol%C3%A1%2C+sou+o+Davi+Artem+" alt="Typing SVG" /></a>
  
- Tenho focado meus estudos em <strong>Admnistração</strong> e <strong>Marketing</strong>, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada.
+ Faço curso técnico em <strong>Admnistração</strong> e estcomecei a estudar para adentrar ao mercado de <strong>desenvolvedor de sistemas</strong>, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada.
 </p>
 
 ## Sobre mim
